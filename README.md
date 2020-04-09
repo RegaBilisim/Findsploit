@@ -1,5 +1,5 @@
-# Findsploit by @xer0dayz
-https://xerosecurity.com
+# Findsploit by @aristarkh, @n01r
+https://spartansht.online
 
 ![alt tag](https://github.com/RegaBilisim/Findsploit/blob/master/findsploit.png)
 
